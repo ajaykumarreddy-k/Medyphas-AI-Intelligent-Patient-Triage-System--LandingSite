@@ -12,7 +12,7 @@ const ArchitectureSection: React.FC = () => {
                     Architecture Diagram
                 </h2>
                 <p className="text-lg font-light text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-                    A high-level overview of the MEDYPHAS AI system infrastructure.
+                    Infrastructure Overview: Gemini 1.5 Pro Orchestration & Dual-Layer AI Model.
                 </p>
             </div>
 
